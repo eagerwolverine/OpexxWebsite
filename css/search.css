@@ -1,0 +1,42 @@
+.form{
+    text-align: center;
+    padding: 5%;
+    background: #5DBCD2;
+}
+.links a{
+    color: white ;
+    text-decoration: none;
+    margin: 30px;
+}
+.navbar-brand{
+    color: white !important;
+}
+.nav-link{
+    color: white !important;
+}
+.form-control{
+    display: inline !important;
+    width: auto !important;
+}
+.section1{
+    text-align: center;
+    padding: 7%;
+}
+.row{
+    padding: 1%;
+}
+.form-control{
+    margin: 10px;
+    width: 71% !important;
+}
+.section{
+    padding: 50px 0 50px 0;
+}
+.btn-win{
+    width: 27%;
+}
+@media screen and (max-width:674px) {
+    .btn-win{
+        width:auto;
+    }
+}

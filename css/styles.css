@@ -1,0 +1,88 @@
+.navbar a{
+    color: white !important;
+}
+.section1{
+    background: url(../images/Fantasy-City.jpg);
+    height:auto;
+    background-size: cover;
+    padding: 10%;
+}
+.section1 h1{
+    text-align: center;
+    color: white;
+    padding: 3%;
+}
+.section1 h3{
+    text-align: center;
+    color: black;
+    font-size: 1rem !important;
+    margin-top: 21%;
+}
+.section2{
+    padding: 5%;
+}
+.btn{
+    display: block !important;
+    margin: auto !important;
+}
+.elements{
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 45px;
+}
+center{
+    margin-top: 1%;
+}
+center a {
+    color: black;
+}
+.elements{
+    text-align: center;
+}
+#hr
+ {
+    background-color: black;
+    color: black;
+    -webkit-transform: rotate(90deg);
+    position: absolute;
+ }
+.card{
+    text-align: center;
+}
+.btn{
+    width: auto;
+}
+.card{
+    border: none !important;
+    padding: 1%;
+}
+.icon{
+    position: inherit;
+    font-size: 70px;
+    margin: auto;
+    color: #2571ce;
+    padding-bottom: 20px;
+}
+.section3{
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 5%;
+}
+.section3 img {
+    width: 100px;
+    display: block;
+    margin: auto;
+}
+.card-text{
+    font-size: 13px;
+}
+.section4{
+    text-align: center;
+}
+.col-md-3{
+    padding: 5%;
+}
+.section3 .card{
+    background-color: #f4f4f4;
+}
